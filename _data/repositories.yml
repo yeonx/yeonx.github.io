@@ -1,12 +1,11 @@
 github_users:
   - yeonx
-  - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - yeonx/al-folio
+  - yeonx/bootstrap
+  - yeonx/jekyll
+  - yeonx/jquery
+  - yeonx/Font-Awesome
+  - yeonx/academicons
+  - yeonx/MathJax
