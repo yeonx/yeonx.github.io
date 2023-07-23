@@ -5,37 +5,30 @@
     "image": "prof_pic.jpg",
     "email": "ydol2@naver.com",
     "phone": "010-8414-1178",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "github": "https://github.com/yeonx",
+    "blog": "https://yeonx.tistory.com"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Neurocle",
+      "position": "인턴",
+      "url": "https://www.neuro-cle.com",
+      "startDate": "2022-03-02",
+      "endDate": "2022-06-30",
+      "summary": "학점연계인턴십으로 AI, Backend 인턴으로 4개월간 근무",
       "highlights": [
-        "Relativity"
+        "AI","Backend"
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "position": "세종 소융 멘토멘티 프로그램",
+      "startDate": "2020-05",
+      "endDate": "2022-06",
+      "summary": "약 2개월간 c언어 멘토로 봉사"
+    }
+  ],
   "education": [
     {
       "institution": "수석졸업",
@@ -114,16 +107,7 @@
   ],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
