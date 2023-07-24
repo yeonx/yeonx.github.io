@@ -1,24 +1,23 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Grooming Mood
+description: 감정을 어루만지는 AI 일기
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+"AI 감정일기"
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    1. 카메라를 보며 오늘 하루를 기록합니다.
+    2. STT를 통해 일기는 자동으로 기록됩니다.
+    3. AI가 표정과 목소리를 통해 감정을 자동으로 판단해줍니다.
+    4. 판단한 감정에 따라 일기를 자동으로 꾸며줍니다.
+    5. 감정에 따라 영화를 추천해줍니다.
+    6. 챗봇을 통해 감정상담을 받을 수 있습니다.
+    7. 다른 사람들의 일기를 보며 감정에 공감할 수 있습니다.
     ---
 
 <div class="row">
