@@ -31,9 +31,9 @@
   ],
   "education": [
     {
-      "institution": "스마트기기공학과",
+      "institution": "수석 졸업",
       "url": "http://www.sejong.ac.kr/",
-      "area": "수석졸업",
+      "area": "스마트기기공학과",
       "studyType": "세종대학교",
       "startDate": "2019-03-04",
       "endDate": "2023-02-17",
@@ -42,6 +42,13 @@
         "전공 : 4.46/4.5",
         "전체 : 4.29/4.5"
       ]
+    },
+    {
+      "institution": "9기",
+      "url": "https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp",
+      "studyType": "삼성 청년 SW 아카데미(SSAFY)",
+      "startDate": "2023-01-04",
+      "endDate": "ing"
     }
   ],
   "awards": [
