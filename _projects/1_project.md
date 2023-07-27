@@ -4,7 +4,7 @@ title: Grooming Mood
 description: 감정을 어루만지는 AI 일기
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: yeonhee's project
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
