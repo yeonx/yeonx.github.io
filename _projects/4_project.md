@@ -11,6 +11,11 @@ category: yeonhee's project
 <h5>👩🏻‍💻 역할 </h5> `AI` `채팅구현` 
 
 <br/><br/>
+<h5>🛠 기술스택 </h5> 
+채팅 : `Socket.io` `PYRHON` <br/>
+AI : `OCR` `STT` `Homography` `MediaPipe` <br/>
+
+<br/><br/>
 <h5>📌 GitHub</h5>
 <div class="row">
 <div class="repo p-2 text-center">

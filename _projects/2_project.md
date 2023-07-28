@@ -11,6 +11,12 @@ category: yeonhee's project
 <h5>👩🏻‍💻 역할 </h5> `백엔드`
 
 <br/><br/>
+<h5>🛠 기술스택 </h5> 
+백엔드 : `JAVA 17` `SPRINGBOOT` `queryDSL` `JPA` `MySQL` `REDIS`<br/>
+인프라 : `DOCKER` `GITACTION` `AWS EC2` `AWS RDBMS` `AWS S3` <br/>
+협업 : `GITHUB` `NOTION` `게더타운` 
+
+<br/><br/>
 <h5>📌 GitHub</h5>
 <div class="row">
 <div class="repo p-2 text-center">

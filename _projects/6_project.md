@@ -11,6 +11,11 @@ category: yeonhee's project
 <h5>👩🏻‍💻 역할 </h5> `백엔드 - 사장님 입장`
 
 <br/><br/>
+<h5>🛠 기술스택 </h5> 
+백엔드 : `JAVA 11` `SPRINGBOOT` `queryDSL` `JPA` `MySQL` <br/>
+협업 : `GITLAB` `NOTION` `SLACK` `JIRA`
+
+<br/><br/>
 <h5>📌 GitHub</h5>
 <div class="row">
 <div class="repo p-2 text-center">
