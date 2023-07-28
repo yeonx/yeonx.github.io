@@ -15,8 +15,6 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<a href="https://github.com/yeonx"><img height="80" width="80" src="assets/img/github.png"/></a>
-<a href="https://yeonx.tistory.com/"><img height="80" width="80" src="assets/img/tistory.png"/></a>
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -48,3 +46,6 @@ social: true  # includes social icons at the bottom of the page
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
+
+<a href="https://github.com/yeonx"><img height="80" width="80" src="assets/img/github.png"/></a>
+<a href="https://yeonx.tistory.com/"><img height="50" width="50" src="assets/img/tistory.png"/></a>
