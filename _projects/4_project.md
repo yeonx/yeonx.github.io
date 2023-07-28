@@ -11,9 +11,17 @@ category: yeonhee's project
 <h5>👩🏻‍💻 역할 </h5> `AI` `채팅구현` 
 
 <br/><br/>
+<h5>📅 개발기간 </h5> `21.10` ~  `21.10`
+
+<br/><br/>
 <h5>🛠 기술스택 </h5> 
 채팅 : `Socket.io` `PYRHON` <br/>
 AI : `OCR` `STT` `Homography` `MediaPipe` <br/>
+
+<br/><br/>
+<h5>📢 참고 </h5> 
+- 세종대학교 해커톤
+- 팀원 : 5명 (AI 5)
 
 <br/><br/>
 <h5>📌 GitHub</h5>

@@ -11,9 +11,17 @@ category: yeonhee's project
 <h5>👩🏻‍💻 역할 </h5> `백엔드 - 사장님 입장`
 
 <br/><br/>
+<h5>📅 개발기간 </h5> `22.07` ~  `22.11`
+
+<br/><br/>
 <h5>🛠 기술스택 </h5> 
 백엔드 : `JAVA 11` `SPRINGBOOT` `queryDSL` `JPA` `MySQL` <br/>
 협업 : `GITLAB` `NOTION` `SLACK` `JIRA`
+
+<br/><br/>
+<h5>📢 참고 </h5> 
+- 한이음 멘토멘티 프로그램
+- 팀원 : 6명 (프론트 1, 디자이너 1, 백엔드 4)
 
 <br/><br/>
 <h5>📌 GitHub</h5>

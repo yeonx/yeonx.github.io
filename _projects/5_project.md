@@ -11,10 +11,18 @@ category: yeonhee's project
 <h5>👩🏻‍💻 역할 </h5> `백엔드` `프론트엔드`
 
 <br/><br/>
+<h5>📅 개발기간 </h5> `23.05` ~  `23.05`
+
+<br/><br/>
 <h5>🛠 기술스택 </h5> 
 백엔드 : `JAVA 8` `SPRINGBOOT` `MyBatis` `MySQL` <br/>
 프론트엔드 :  `Vue` `JAVASCRIPT` `CSS` <br/>
 협업 : `GITHUB` `NOTION`
+
+<br/><br/>
+<h5>📢 참고 </h5> 
+- SSAFY 관통프로젝트
+- 팀원 : 2명 (풀스택 2)
 
 <br/><br/>
 <h5>📌 GitHub</h5>
